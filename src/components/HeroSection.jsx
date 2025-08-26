@@ -37,7 +37,7 @@ export const HeroSection = () => {
             </span>{" "}
             and REST APIs. I have a solid foundation in data structures, OOP, and database management systems, backed by hands-on experience building scalable web applications, real-time solutions.
             <br />
-            I thrive in agile environments, where I enjoy collaborating with teams to deliver clean, efficient, and impactful software. I’m always eager to adapt to emerging technologies and transform ideas into practical, high-quality solutions.
+            I thrive in agile environments, where I enjoy collaborating with teams to deliver clean, efficient, and impactful software.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
